@@ -1,0 +1,23 @@
+{
+  "client": "Thunder Client",
+  "collectionName": "PDCS Pertemuan 2",
+  "dateExported": "2026-11-20T00:00:00.000Z",
+  "version": "1.2",
+  "folders": [],
+  "requests": [
+    {
+      "_id": "4a1f0e10-2d2f-4a6c-9d1c-7f2b61a9c001",
+      "colId": "4a1f0e10-2d2f-4a6c-9d1c-7f2b61a9c000",
+      "containerId": "",
+      "name": "GET Mahasiswa",
+      "url": "http://localhost:8000/api/mahasiswa.php",
+      "method": "GET",
+      "sortNum": 10000,
+      "created": "2026-11-20T00:00:00.000Z",
+      "modified": "2026-11-20T00:00:00.000Z",
+      "headers": [],
+      "params": [],
+      "tests": []
+    }
+  ]
+}
